@@ -62,3 +62,5 @@ Conclusion
 This task helped me understand the critical aspects of cloud security implementation, including IAM configurations, secure storage, and encryption techniques. By creating IAM users, assigning roles, and enforcing MFA, I learned how to manage access securely in a cloud environment. Configuring S3 bucket policies, encryption, and access controls enhanced my knowledge of secure cloud storage practices. Additionally, implementing data encryption at rest and in transit helped me understand the importance of protecting sensitive information from cyber threats.
 
 #OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0518234a-c37c-4911-93e4-03fac67138de) 
